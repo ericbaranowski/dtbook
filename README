@@ -1,3 +1,5 @@
+
+08/25/2018: dtracebook.com just redirects to Brendan Gregg's site, so out of fear the repo might disappear one day I decided to post it here.
 This bundle includes DTrace scripts from the book:
 
 DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X, and FreeBSD
